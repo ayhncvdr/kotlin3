@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         anotherFunc()
         mySum(15,36)
 
-       var y= myMultiply(8,36)
+       var y= myMultiply(9,37)
         println(y)
 
         var homer = Simpson(50,"Homer Simpson", "Nuclear engineer");
