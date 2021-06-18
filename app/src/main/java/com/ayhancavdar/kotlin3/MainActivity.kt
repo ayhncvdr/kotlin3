@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("onCreate got executed")
+        println("ayhan")
         test()
         anotherFunc()
         mySum(15,36)
