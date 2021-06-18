@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         test()
         anotherFunc()
         mySum(15,36)
+        println("adnan")
 
        var y= myMultiply(9,37)
         println(y)
